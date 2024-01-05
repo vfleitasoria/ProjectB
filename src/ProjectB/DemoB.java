@@ -10,4 +10,8 @@ public static void main(String[]args) {
 		System.out.println("Git project pull...");
 		
 	}
+
+	System.out.println("Git project push...");
+		System.out.println("Git project pull...");
+System.out.println("Comming from gitHub");
 }
